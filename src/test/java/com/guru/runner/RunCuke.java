@@ -16,8 +16,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 @CucumberOptions(
 		        
 		       //features="E:\\Praveen_Automation\\TCS_SELENIUM\\CUCUMBER_BDD_FRAMEWORK\\Features\\GuruHomepage.feature",
-		       //features="E:\\Praveen_Automation\\TCS_SELENIUM\\CUCUMBER_BDD_FRAMEWORK\\Features\\GuruLoginDDT.feature",
-		       features="E:\\Praveen_Automation\\TCS_SELENIUM\\CUCUMBER_BDD_FRAMEWORK\\Features",
+		      // features="E:\\Praveen_Automation\\TCS_SELENIUM\\CUCUMBER_BDD_FRAMEWORK\\Features\\GuruLoginDDT.feature",
+		      features="E:\\Praveen_Automation\\TCS_SELENIUM\\CUCUMBER_BDD_FRAMEWORK\\Features",
 		       glue="com.guru.stepDefinations",
 		       plugin = {"json:target/RunCuke/cucumber.json", "pretty", "html:target/RunCuke/cucumber.html","com.cucumber.listener.ExtentCucumberFormatter"},
 		       dryRun=false,

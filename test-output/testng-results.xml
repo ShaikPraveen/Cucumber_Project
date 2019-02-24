@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Cucumber Practice Test" duration-ms="215452" started-at="2019-02-24T11:18:52Z" finished-at="2019-02-24T11:22:27Z">
+  <suite name="Cucumber Practice Test" duration-ms="216984" started-at="2019-02-24T18:42:35Z" finished-at="2019-02-24T18:46:12Z">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Guru Application Login Test" duration-ms="215452" started-at="2019-02-24T11:18:52Z" finished-at="2019-02-24T11:22:27Z">
+    <test name="Guru Application Login Test" duration-ms="216984" started-at="2019-02-24T18:42:35Z" finished-at="2019-02-24T18:46:12Z">
       <class name="com.guru.runner.RunCuke">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="setUpClass" is-config="true" duration-ms="441" started-at="2019-02-24T16:48:52Z" finished-at="2019-02-24T16:48:52Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="setUpClass" is-config="true" duration-ms="533" started-at="2019-02-25T00:12:35Z" finished-at="2019-02-25T00:12:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="setup" is-config="true" duration-ms="214" started-at="2019-02-24T16:48:52Z" finished-at="2019-02-24T16:48:53Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="setup" is-config="true" duration-ms="298" started-at="2019-02-25T00:12:35Z" finished-at="2019-02-25T00:12:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="feature" duration-ms="53956" started-at="2019-02-24T16:48:53Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-02-24T16:49:47Z">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="feature" duration-ms="62077" started-at="2019-02-25T00:12:36Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-02-25T00:13:38Z">
           <params>
             <param index="0">
               <value>
@@ -29,7 +29,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="feature" duration-ms="160584" started-at="2019-02-24T16:49:47Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-02-24T16:52:27Z">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="feature" duration-ms="153749" started-at="2019-02-25T00:13:38Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2019-02-25T00:16:11Z">
           <params>
             <param index="0">
               <value>
@@ -40,7 +40,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.guru.runner.RunCuke@1794d431]" name="tearDownClass" is-config="true" duration-ms="98" started-at="2019-02-24T16:52:27Z" finished-at="2019-02-24T16:52:27Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.guru.runner.RunCuke@57baeedf]" name="tearDownClass" is-config="true" duration-ms="100" started-at="2019-02-25T00:16:11Z" finished-at="2019-02-25T00:16:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Cucumber Practice Test]">
-  <test name="Guru Application Login Test">
-    <classes>
-      <class name="com.guru.runner.RunCuke"/>
-    </classes>
-  </test> <!-- Guru Application Login Test -->
-</suite> <!-- Failed suite [Cucumber Practice Test] -->
